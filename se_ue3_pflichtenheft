@@ -1,0 +1,30 @@
+Funktionale Pflichten:
+
+1) Das System Parkhaus MUSS den Kunden die Möglichkeit bieten ihr Auto zu parken
+2) Das SP MUSS den Kunden die Möglichkeit bieten, die Parkkosten zu bezahlen
+3) Das SP MUSS fähig sein Informationen zwischen den Mitarbeitern zu kommunizieren
+4) Das SP MUSS transparente Tarife darstellen 
+5) Das SP MUSS Ein- und Ausganszeitpunkt der Kunden erfassen
+6) Das SP SOLLTE den Kunden die Möglichkeit bieten Belegungsinformationen einzusehen. 
+7) Wenn ein Kunde bezahlt hat MUSS das SP fähig sein den Ausgang zu öffnen
+8) Wenn ein Systemteil ausfällt MUSS das SP dem Manager alarmieren
+
+Nicht-funktionale Pflichen:
+
+1) Wenn Stoßzeiten herrschen MUSS das SP eine Hohe Percormance bieten
+2) Das SP SOLLTE qualitativ hochwertig sein 
+3) Das SP SOLLTE leicht zu bedienen sein
+3) Das SP SOLLTE Sicherheit für Kunden und Mitarbeiter garantieren
+
+Technische Anforderungen:
+
+1) Das System Parkhaus MUSS Daten zur Abrechnung speichern
+2) Das System Parkhaus SOLLTE nicht Kostenintensiv sein
+3) Das System Parkhaus MUSS schnell sein
+
+Rahmenbedingungen: 
+
+1) Wenn ein Kunde Probleme hat MUSS das SP Kontakt zu Mitarbeitern ermöglichen
+
+
+
